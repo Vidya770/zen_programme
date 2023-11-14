@@ -1,0 +1,28 @@
+[
+    {
+     "userid" : "1",
+    "name" : "vidya",
+    "email" : "vidya@gmail.com"
+},
+{
+    "userid" : "2",
+    "name" : "amit",
+    "email" : "amit@gmail.com"
+},
+{
+    "userid" : "3",
+    "name" : "vaishnavi",
+    "email" : "vaishnavi@gmail.com"
+},
+{
+     "userid" : "4",
+    "name" : "om",
+    "email" : "om@gmail.com"
+},
+{
+      "userid" : "5",
+    "name" : "priya",
+    "email" : "priya@gmail.com"
+}
+]
+
